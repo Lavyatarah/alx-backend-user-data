@@ -1,6 +1,3 @@
-Resources
-Read or watch:
-
 What Is PII, non-PII, and Personal Data?
 logging documentation
 bcrypt package
